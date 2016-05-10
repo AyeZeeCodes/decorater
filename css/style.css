@@ -12,13 +12,13 @@ img {
   max-width: 100%;
 }
 .before {
-  background-color: #ccc;
+  background-color: cornflowerblue;
 }
 .during {
-  background-color: #ddd;
+  background-color: indianred;
 }
 .after {
-  background-color: #bbb;
+  background-color: moccasin;
 }
 .intro {
   width: 50%;
@@ -32,7 +32,8 @@ img {
   margin: 1%;
   -webkit-box-shadow: 7px 7px 20px -2px rgba(0,0,0,0.75);
   -moz-box-shadow: 7px 7px 20px -2px rgba(0,0,0,0.75);
-  box-shadow: 1px 7px 20px -8px rgba(0,0,0,0.75);
+  box-shadow: 1px 7px 20px -2px rgba(0,0,0,0.75);
+  border-radius: 10px 20px 30px 100px;
 }
 
 .column p {
